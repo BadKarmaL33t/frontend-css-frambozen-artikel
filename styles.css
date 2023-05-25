@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
+
+body {
+    font-family: 'Poppins', Verdana, Arial sans-serif;
+    font-weight: 300;
+    background-color: #DFD9E2;
+    color: #535865;
+}
+
+h1, h2, h3 {
+    color: #865B9A;
+}
+
+h1 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 {
+    /*font-weight: 300;*/
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    text-align: center;
+}
+
+#introduction {
+    font-weight: 500;
+}
+
+.vitamins {
+    list-style: square;
+}
+
+.order-button {
+    background-color: #865B9A;
+    color: white;
+    border-color: #535865;
+    font-size: 24px;
+}
